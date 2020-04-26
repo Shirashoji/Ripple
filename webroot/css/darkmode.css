@@ -4,6 +4,9 @@
     background-color: #000 !important;
     color: #fff !important;
   }
+  .user-block {
+    border: 3px solid #ccc !important;
+  }
 
   .dropdown-menu.show {
     background-color: #000 !important;
@@ -25,6 +28,12 @@
 
   .card-body {
     background-color: #000 !important;
+  }
+
+  .bx-wrapper {
+    box-shadow: 0 0 5px #6a6a6a !important;
+    border: 5px solid #000 !important;
+    background: #000 !important;
   }
 
   .breadcrumb {
